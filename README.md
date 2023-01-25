@@ -7,6 +7,11 @@ Code4Share is a web application in which users can create the playgrounds and co
 
 https://code4share-editor.herokuapp.com/
 
+## Flowchart 
+
+![codeshare_flowchart](https://user-images.githubusercontent.com/83701005/214519370-d19c0822-40b5-40ab-a120-7840da458187.jpg)
+
+
 ## Screenshots
 
 ![image_1](https://user-images.githubusercontent.com/83701005/213870675-c6f82172-ba80-4ab9-8eb9-2b97f207960b.png)
